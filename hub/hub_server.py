@@ -938,7 +938,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 <span>AKTYWNYCH: <strong id="tele-online" style="color:var(--status-green);">0</strong> / 9</span>
             </div>
             <div class="tele-item" id="tele-ping">PING: -- ms</div>
-            <div class="tele-item" id="tele-rtx">RTX: CUDA 12.8</div>
+            <div class="tele-item" id="tele-rtx">RTX 5070 · CUDA 13.5 (Torch 12.8)</div>
         </div>
     </header>
 
